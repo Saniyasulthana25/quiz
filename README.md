@@ -21,11 +21,6 @@ Users can answer multiple-choice questions and get their score at the end.
 
 ---
 
-## 📸 Screenshot
-(Add a screenshot later if you like)
-
----
-
 ## ⚡ Tech Used
 - HTML  
 - CSS  
