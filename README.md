@@ -17,7 +17,7 @@ Users can answer multiple-choice questions and get their score at the end.
 ---
 
 ## 🖥 Live Demo
-[Click Here](https://saniyasulthana25.github.io/quiz-app/)  
+[Click Here](http://127.0.0.1:5500/Portfolio/projects/quiz/index.html)  
 
 ---
 
